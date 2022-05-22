@@ -1,0 +1,2 @@
+# Quantum_generative_model_by_restricted_quantum_circuits
+My graduation thesis
