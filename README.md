@@ -1,2 +1,2 @@
 # Quantum_generative_model_by_restricted_quantum_circuits
-My graduation thesis
+本研究は、大阪大学基礎工学部電子物理科学科卒業論文において取り組んだ"制限付き量子回路による量子生成モデルの提案(Quantum Generative Model by restricted quantum circuits)"に関するものである。
