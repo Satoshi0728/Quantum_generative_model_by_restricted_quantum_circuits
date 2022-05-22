@@ -1,12 +1,6 @@
 # Quantum_generative_model_by_restricted_quantum_circuits
 本研究は、大阪大学基礎工学部電子物理科学科卒業論文において取り組んだ"制限付き量子回路による量子生成モデルの提案(Quantum Generative Model by restricted quantum circuits)"に関するものである。
 
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
-
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
-
-"hoge"が何かを簡潔に紹介する
-
 # DEMO
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
