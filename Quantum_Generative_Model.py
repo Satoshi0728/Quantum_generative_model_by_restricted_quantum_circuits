@@ -330,8 +330,3 @@ class QGM:
         #尤度関数のepochごとの減少率の記録を書き込み
         pd.to_pickle(self.log , dir_name +'/' + 'log.pkl' )
 
-
-    def slack_notify(self, msg = 'done'):
-        slack_user_id = 'hoge'
-        slack_webhook_url = 'hoge'
-        requests.post(slack_webhook_url, json={"text":msg})
