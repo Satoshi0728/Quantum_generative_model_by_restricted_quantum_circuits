@@ -69,8 +69,5 @@ qgm = QGM(data_MNIST , seed = None, number_of_original_image = 0 , optimize_meth
 qgm.learning(batch_size, epoch , lr, cost = cost_limit)
 
 qgm.get_datas(number , number_of_pictures , dir_name = "hoge" )
-# スラック通知
-qgm.slack_notify(msg = 'calculation done')
-
 
 
