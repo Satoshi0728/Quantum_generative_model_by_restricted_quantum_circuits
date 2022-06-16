@@ -14,3 +14,6 @@
 * The University of Tokyo
 * satoshi-ishikawa@g.ecc.u-tokyo.ac.jp
 
+# Awards
+
+* 大阪大学卒業研究優秀賞
